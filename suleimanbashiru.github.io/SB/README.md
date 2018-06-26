@@ -1,2 +1,0 @@
-# suleimanbashiru.github.io
-PixelArtMaker

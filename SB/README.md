@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Live](#Pixel Art Maker Project Live)
+* [Live](#PixelLive)
 
 ## Instructions
 

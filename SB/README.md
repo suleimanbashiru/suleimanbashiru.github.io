@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Live-Link](#Pixel Art Maker Project)
+* [Live](#Pixel Art Maker Project Live)
 
 ## Instructions
 
@@ -17,6 +17,6 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 
-## Pixel Art Maker Project
+## Pixel Art Maker Project Live 
 
-[Live Link](https://suleimanbashiru.github.io/SB/)
+[Live](https://suleimanbashiru.github.io/SB/)

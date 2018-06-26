@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Live Link](#live link)
+* [Live-Link](#Pixel Art Maker Project)
 
 ## Instructions
 
